@@ -18,5 +18,5 @@ To further automate resource management across your organization, you can integr
 
 ### How it works <a id="How_it_works"></a>
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 

@@ -18,5 +18,5 @@ The Tool from software development applied to infrastructure:
 * **Speed:** Automation-enabled speed through hast execution with more visibility.
 * **Less risk:**  Less chance of human error, manual misconfiguration which increases reliability and decreases downtime and improves security.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
