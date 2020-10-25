@@ -16,4 +16,5 @@
 * [Infrastructure as Code](aws-cloudformation/infrastructure-as-code.md)
 * [What's CloudFormation?](aws-cloudformation/whats-cloudformation.md)
 * [CloudFormation - Lab \#1](aws-cloudformation/cloudformation-lab-1.md)
+* [CloudFormation Concepts](aws-cloudformation/cloudformation-concepts.md)
 
