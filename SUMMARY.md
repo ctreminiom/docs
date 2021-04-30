@@ -27,3 +27,7 @@
 
 * [Topics](certified-jenkins-engineer-cje/topics.md)
 
+## Microsoft Certified: AZ-104
+
+* [📓 Manage Azure AD Users](microsoft-certified-az-104/manage-azure-ad-users.md)
+
