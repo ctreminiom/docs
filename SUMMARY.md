@@ -31,3 +31,9 @@
 
 * [📓 Manage Azure AD Users](microsoft-certified-az-104/manage-azure-ad-users.md)
 
+## HashiCorp Certified: Terraform Associate
+
+---
+
+* [Overview](overview.md)
+
