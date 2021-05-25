@@ -1,4 +1,4 @@
-# Overview
+# 🔎 Overview
 
 This guide lists resources you should study if you are preparing for the Terraform Associate Certification exam from scratch. We've listed the resources in order of difficulty so that you should be able to progress through the list in order. For resources related to a particular test objective, refer to the [Exam Review Guide](https://learn.hashicorp.com/tutorials/terraform/associate-review) instead.
 
@@ -14,11 +14,11 @@ Terraform is a tool that allows you to define infrastructure in human and machin
 
 ## Terraform Workflow
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](.gitbook/assets/image%20%2839%29.png)
 
 ## Terraform Configuration Syntax
 
-![](.gitbook/assets/image%20%2829%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
 
 ## Terraform Top-Level Blocks
 
@@ -26,7 +26,7 @@ Terraform is a tool that allows you to define infrastructure in human and machin
 
 ## Terraform Providers Sample
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2837%29.png)
 
 ## Terraform Core Definitions
 
@@ -51,4 +51,8 @@ Terraform is a tool that allows you to define infrastructure in human and machin
 ![](.gitbook/assets/image%20%2824%29.png)
 
 ![](.gitbook/assets/image%20%2836%29.png)
+
+![](.gitbook/assets/image%20%2829%29.png)
+
+![](.gitbook/assets/image%20%2832%29.png)
 
