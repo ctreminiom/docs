@@ -23,18 +23,22 @@
 * [Introduction](kubernetes/kubernetes-introduction.md)
 * [Untitled](kubernetes/untitled.md)
 
-## Certified Jenkins Engineer \(CJE\)
+## Jenkins Engineer - \(CJE\)
 
-* [Topics](certified-jenkins-engineer-cje/topics.md)
+* [Topics](jenkins-engineer-cje/topics.md)
 
-## Microsoft Certified: AZ-104
+## Microsoft Azure - AZ-104
 
-* [📓 Manage Azure AD Users](microsoft-certified-az-104/manage-azure-ad-users.md)
+* [📓 Manage Azure AD Users](microsoft-azure-az-104/manage-azure-ad-users.md)
 
-## Certified Terraform Associate
+## Terraform - Certified Associate
 
 ---
 
 * [🔎 Overview](overview.md)
 * [📚 IaC](iac.md)
+
+## GCP - Data Engineer
+
+* [Overview](gcp-data-engineer/overview.md)
 
