@@ -128,3 +128,9 @@ A Professional Data Engineer enables data-driven decision-making by collecting, 
 *  Designing for data and application portability \(e.g., multi-cloud, data residency requirements\)
 *  Data staging, cataloging, and discovery
 
+{% embed url="https://lucid.app/lucidchart/0ca44a63-4ea4-4d78-8367-2465512d21be/view?page=5CetVcvv3YSZ\#" %}
+
+{% embed url="https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet" %}
+
+
+

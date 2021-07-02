@@ -41,4 +41,5 @@
 ## GCP - Data Engineer
 
 * [Overview](gcp-data-engineer/overview.md)
+* [Big Data and Machine Learning Fundamentals](gcp-data-engineer/big-data-and-machine-learning-fundamentals.md)
 
