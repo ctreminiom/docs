@@ -15,7 +15,7 @@
 * [Introduction](aws-cloudformation/introduction.md)
 * [Infrastructure as Code](aws-cloudformation/infrastructure-as-code.md)
 * [What's CloudFormation?](aws-cloudformation/whats-cloudformation.md)
-* [CloudFormation - Lab \#1](aws-cloudformation/cloudformation-lab-1.md)
+* [CloudFormation - Lab #1](aws-cloudformation/cloudformation-lab-1.md)
 * [CloudFormation Concepts](aws-cloudformation/cloudformation-concepts.md)
 
 ## Kubernetes
@@ -23,7 +23,7 @@
 * [Introduction](kubernetes/kubernetes-introduction.md)
 * [Untitled](kubernetes/untitled.md)
 
-## Jenkins Engineer - \(CJE\)
+## Jenkins Engineer - (CJE)
 
 * [Topics](jenkins-engineer-cje/topics.md)
 
@@ -33,13 +33,14 @@
 
 ## Terraform - Certified Associate
 
----
+***
 
 * [🔎 Overview](overview.md)
-* [📚 IaC](iac.md)
+* [📚 Infrastructure as Code](iac.md)
+* [Page 1](page-1.md)
+* [🎲 Cheat Sheet](cheat-sheet.md)
 
 ## GCP - Data Engineer
 
 * [Overview](gcp-data-engineer/overview.md)
 * [Big Data and Machine Learning Fundamentals](gcp-data-engineer/big-data-and-machine-learning-fundamentals.md)
-

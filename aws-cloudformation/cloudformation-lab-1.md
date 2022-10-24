@@ -1,4 +1,4 @@
-# CloudFormation - Lab \#1
+# CloudFormation - Lab #1
 
 ## Create the Stack
 
@@ -14,15 +14,15 @@ Resources:
           Value: A simple exampleU
 ```
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](<../.gitbook/assets/image (6).png>)
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](<../.gitbook/assets/image (10).png>)
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](<../.gitbook/assets/image (8).png>)
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](<../.gitbook/assets/image (2).png>)
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](<../.gitbook/assets/image (13).png>)
 
 
 
@@ -42,9 +42,8 @@ Resources:
           Value: A simple stack update
 ```
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](<../.gitbook/assets/image (1) (1).png>)
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](<../.gitbook/assets/image (5).png>)
 
-![](../.gitbook/assets/image%20%283%29.png)
-
+![](<../.gitbook/assets/image (3).png>)
