@@ -75,6 +75,10 @@ Official Documentation
 * Used to apply the changes required **to reach the desired state** of the configuration.
 * By default, apply scans the current directory for the configuration and applies the changes appropriately.
 
+<figure><img src=".gitbook/assets/aaa.gif" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://developer.hashicorp.com/terraform/cli/commands/apply" %}
 Official Documentation
 {% endembed %}
@@ -89,19 +93,31 @@ While you will typically not want to destroy long-lived objects in a production 
 Official Documentation
 {% endembed %}
 
-## Terraform Configuration Syntax
-
-![](<.gitbook/assets/image (34).png>)
+## Terraform Workflow Sample
 
 {% embed url="https://github.com/ctreminiom/certified-terraform-associate/tree/main/command-basics" %}
 
 <figure><img src=".gitbook/assets/image (42).png" alt=""><figcaption><p>.tf files</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/aaa.gif" alt=""><figcaption></figcaption></figure>
+
+## Terraform Language Syntax
+
+This section describes the _native syntax_ of the Terraform language, which is a rich language designed to be relatively easy for humans to read and write. The constructs in the Terraform language can also be expressed in [JSON syntax](https://developer.hashicorp.com/terraform/language/syntax/json), which is harder for humans to read and edit but easier to generate and parse programmatically.
+
+This low-level syntax of the Terraform language is defined in terms of a syntax called _HCL_, which is also used by configuration languages in other applications, and in particular other HashiCorp products. It is  not necessary to know all of the details of HCL syntax in order to use Terraform, and so this page summarizes the most important details. If you are interested, you can find a full definition of HCL syntax in [the HCL native syntax specification](https://github.com/hashicorp/hcl/blob/main/hclsyntax/spec.md).
+
+<figure><img src=".gitbook/assets/screenshot-www.udemy.com-2022.10.30-13_53_47.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/screenshot-www.udemy.com-2022.10.30-14_05_57.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Terraform Top-Level Blocks
 
