@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [Golang Shippets](golang-shippets/README.md)
+  * [PII Data Check](golang-shippets/pii-data-check.md)
 
 ## Docker
 
