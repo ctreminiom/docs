@@ -51,3 +51,44 @@ The `containsPII` function iterates over the patterns, uses the `regexp` package
 In the `main` function, we demonstrate the usage of the `containsPII` function by passing a sample `text` string. Based on the result, it prints whether PII information was detected or not.
 
 Remember to review and adjust the regular expressions and patterns based on your specific needs, as this example covers only a few basic PII categories.
+
+## Regular Expressions
+
+Extracting sensitive information (Personally Identifiable Information or PII) using regular expressions can be a complex task since PII can vary in format and structure depending on the specific type of information. However, here is a list of regular expressions commonly used to extract different types of sensitive information:
+
+### Email Address:
+
+```
+\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b
+```
+
+### Phone Number (US Format):
+
+```
+\b(?:\+?1[-.])?(?:\([2-9]\d{2}\)|[2-9]\d{2})[-.]\d{3}[-.]\d{4}\b
+```
+
+### Credit Card Number (Generic):
+
+```
+\b(?:\d[ -]*?){13,16}\b
+```
+
+### Social Security Number (US Format):
+
+```
+\b\d{3}[-]?\d{2}[-]?\d{4}\b
+```
+
+### Driver's License Number (US Format):
+
+```
+\b[A-Z]{1}\d{6}\b
+```
+
+### Passport Number
+
+```
+\b[A-Z]{1}[0-9]{7}\b
+
+```
