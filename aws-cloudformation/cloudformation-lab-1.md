@@ -14,11 +14,11 @@ Resources:
           Value: A simple exampleU
 ```
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 ![](<../.gitbook/assets/image (10).png>)
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 ![](<../.gitbook/assets/image (2).png>)
 

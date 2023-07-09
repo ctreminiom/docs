@@ -37,9 +37,9 @@
 
 ***
 
+* [🦠 What is Terraform?](what-is-terraform.md)
 * [🔎 Overview](overview.md)
 * [📚 Infrastructure as Code](iac.md)
-* [Page 1](page-1.md)
 * [🎲 Cheat Sheet](cheat-sheet.md)
 
 ## GCP - Data Engineer
