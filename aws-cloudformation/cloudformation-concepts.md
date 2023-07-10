@@ -88,4 +88,4 @@ For example, if you change the name of an Amazon RDS database instance, AWS Clou
 
 ### Summary
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
