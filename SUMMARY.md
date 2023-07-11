@@ -39,6 +39,7 @@
 
 * [🦠 What is Terraform?](what-is-terraform.md)
 * [🧬 Infrastructure as Code](iac.md)
+* [🧫 Build Infrastructure](build-infrastructure.md)
 * [🔎 Overview](overview.md)
 * [🎲 Cheat Sheet](cheat-sheet.md)
 
