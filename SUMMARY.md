@@ -40,6 +40,10 @@
 * [🦠 What is Terraform?](what-is-terraform.md)
 * [🧬 Infrastructure as Code](iac.md)
 * [🧫 Build Infrastructure](build-infrastructure.md)
+* [🧪 Change Infrastructure](change-infrastructure.md)
+* [🧺 Define Input Variables](define-input-variables.md)
+* [🚰 Query Data with Outputs](query-data-with-outputs.md)
+* [💾 Store Remote State](store-remote-state.md)
 * [🔎 Overview](overview.md)
 * [🎲 Cheat Sheet](cheat-sheet.md)
 

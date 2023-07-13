@@ -14,7 +14,7 @@ You can then use a consistent workflow to provision and manage all of your infra
 
 Terraform creates and manages resources on cloud platforms and other services through their application programming interfaces **(APIs).** Providers enable Terraform to work with virtually any platform or service with an accessible **API.**
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 HashiCorp and the Terraform community have already written **thousands of providers** to manage many different types of resources and services.&#x20;
 
