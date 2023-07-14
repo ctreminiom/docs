@@ -106,7 +106,7 @@ The `terraform init` step created the `learn-tfc-aws` workspace in your Terrafor
 
 Navigate to your `learn-tfc-aws` workspace in Terraform Cloud and go to the workspace's **Variables** page. Under **Workspace Variables**, add your `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` as **Environment Variables**, making sure to mark them as "Sensitive".
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Apply the configuration <a href="#apply-the-configuration" id="apply-the-configuration"></a>
 

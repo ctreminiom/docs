@@ -1,6 +1,6 @@
 # 🧫 Build Infrastructure
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 With Terraform installed, you are ready to create your first infrastructure.
 
@@ -209,7 +209,7 @@ Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
 
 You have now created infrastructure using Terraform! Visit the [EC2 console](https://console.aws.amazon.com/ec2/v2/home?region=us-west-2#Instances:sort=instanceId) and find your new EC2 instance.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>Instance on the AWS side</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Instance on the AWS side</p></figcaption></figure>
 
 ## Inspect state <a href="#inspect-state" id="inspect-state"></a>
 
