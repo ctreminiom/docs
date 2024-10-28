@@ -14,7 +14,7 @@ Terraform is a tool that allows you to define infrastructure in human and machin
 
 ## Terraform Workflow
 
-![](<.gitbook/assets/image (39).png>)
+![](<../.gitbook/assets/image (39).png>)
 
 ### Init
 
@@ -25,7 +25,7 @@ A working directory must be initialized before Terraform can perform any operati
 * This commend is used to initialize a workflow directory containing terraform config files.
 * This's the first command that should be run after writing new terraform configurations and **providers.**
 
-<figure><img src=".gitbook/assets/maxresdefault.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/maxresdefault.jpg" alt=""><figcaption></figcaption></figure>
 
 Run the `terraform init` command to initialize a working directory that contains a Terraform configuration. After initialization, you will be able to perform other commands, like `terraform plan` and `terraform apply`.
 
@@ -49,7 +49,7 @@ It is safe to run this command automatically, for example as a post-save check i
 
 Validation requires an initialized working directory with any referenced plugins and modules installed. To initialize a working directory for validation without accessing any configured backend, use
 
-<figure><img src=".gitbook/assets/maxresdefault (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/maxresdefault (1).jpg" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://developer.hashicorp.com/terraform/cli/commands/validate" %}
 Official Documentation
@@ -64,7 +64,7 @@ The `terraform plan` command creates an execution plan, which lets you preview t
 * Proposes a set of change actions that should, if applied, make the remote objects match the configuration.
 * Terraform performs a refresh and determinates what actions are necessary to achieve the **desired** **state** specified in the configuration files.
 
-<figure><img src=".gitbook/assets/maxresdefault (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/maxresdefault (2).jpg" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://developer.hashicorp.com/terraform/cli/commands/plan" %}
 Official Documentation
@@ -75,9 +75,9 @@ Official Documentation
 * Used to apply the changes required **to reach the desired state** of the configuration.
 * By default, apply scans the current directory for the configuration and applies the changes appropriately.
 
-<figure><img src=".gitbook/assets/aaa.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/aaa.gif" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://developer.hashicorp.com/terraform/cli/commands/apply" %}
 Official Documentation
@@ -97,15 +97,15 @@ Official Documentation
 
 {% embed url="https://github.com/ctreminiom/certified-terraform-associate/tree/main/command-basics" %}
 
-<figure><img src=".gitbook/assets/image (42).png" alt=""><figcaption><p>.tf files</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>.tf files</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/aaa.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/aaa.gif" alt=""><figcaption></figcaption></figure>
 
 ## Terraform Language Syntax
 
@@ -113,44 +113,44 @@ This section describes the _native syntax_ of the Terraform language, which is a
 
 This low-level syntax of the Terraform language is defined in terms of a syntax called _HCL_, which is also used by configuration languages in other applications, and in particular other HashiCorp products. It is  not necessary to know all of the details of HCL syntax in order to use Terraform, and so this page summarizes the most important details. If you are interested, you can find a full definition of HCL syntax in [the HCL native syntax specification](https://github.com/hashicorp/hcl/blob/main/hclsyntax/spec.md).
 
-<figure><img src=".gitbook/assets/screenshot-www.udemy.com-2022.10.30-13_53_47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshot-www.udemy.com-2022.10.30-13_53_47.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/screenshot-www.udemy.com-2022.10.30-14_05_57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshot-www.udemy.com-2022.10.30-14_05_57.png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## Terraform Top-Level Blocks
 
-![](<.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (35).png>)
 
 ## Terraform Providers Sample
 
-![](<.gitbook/assets/image (37).png>)
+![](<../.gitbook/assets/image (37).png>)
 
 ## Terraform Core Definitions
 
-![](<.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (25).png>)
 
 ## Terraform State Diagram
 
-![](<.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (28).png>)
 
-![](<.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/image (27).png>)
 
 ## Terraform Variables
 
-![](<.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26).png>)
 
-![](<.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31).png>)
 
 ## Terraform Backend
 
-![](<.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (30).png>)
 
-![](<.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24).png>)
 
-![](<.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36).png>)
 
-![](<.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (29).png>)
 
-![](<.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (32).png>)

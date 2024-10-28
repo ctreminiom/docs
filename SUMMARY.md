@@ -48,7 +48,8 @@
 * [🎃 Configuration Language](configuration-language/README.md)
   * [🧼 Terraform Resources](configuration-language/terraform-resources.md)
   * [💊 Terraform Variables](configuration-language/terraform-variables.md)
-* [🔎 Overview](overview.md)
+* [🔎 Overview](overview/README.md)
+  * [🗃️ Configuration Syntax](overview/configuration-syntax.md)
 * [🎲 Cheat Sheet](cheat-sheet.md)
 
 ## GCP - Data Engineer
